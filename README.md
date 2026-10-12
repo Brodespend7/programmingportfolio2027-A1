@@ -30,7 +30,7 @@ Still in progress:
 Built with Processing.
 Processing version: [4.0.1]
 
-[The main folder is the calculator]
+[The main folder is the calculator and the second folder is the buttons]
 
 ## Controls
 Mouse:

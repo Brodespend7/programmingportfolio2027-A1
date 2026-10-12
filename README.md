@@ -43,7 +43,7 @@ Keyboard:
 [the Main Sketch is the calculator and there is another tab for the buttons to make sure the buttons work and display in the output]
 
 ## Testing
-[multiplying 9x8 is equaled to 72 and not 343,733]
+[i was testing the multiplication and division and they both worked ]
 
 ## Next Step
 [Working on getting the keyboard to work then working on fixing the decimals]
